@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jcalendar-1.3.2.jar"/>
+	<classpathentry kind="lib" path="sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="lib1/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib1/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib1/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="lib1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib1/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib1/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib1/jasperreports-6.0.0.jar"/>
+	<classpathentry kind="lib" path="lib1/jasperreports-fonts-4.5.0.jar"/>
+	<classpathentry kind="lib" path="lib1/itextpdf-5.5.0.jar"/>
+	<classpathentry kind="lib" path="lib1/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="lib1/jasper-compiler-jdt-5.5.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
